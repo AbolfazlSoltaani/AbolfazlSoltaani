@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋 
 
-<!--
-**AbolfazlSoltaani/AbolfazlSoltaani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **CS Enthusiast | Researcher | Software Engineer**  
 
-Here are some ideas to get you started:
+I am Abolfazl Soltani, a **last-year Bachelor of Science student in Computer Engineering**, with a strong passion for **contributing to open-source applications**, which I'm still a newbie at. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 **Find Me Elsewhere**  
+[🌐 Personal Website](https://abolfazlsoltaani.github.io) | [💼 LinkedIn](https://linkedin.com/in/absoltani02) | [🐦 Twitter](https://twitter.com/callmeatreus) 
+
+📬 **Feel free to reach out!** Whether it's about research, mentorship, or cool projects, I'm always happy to connect!  
+
+---
+
+⭐ **Fun Fact**: I enjoy playing video games and sports in my free time! 🎮⚽  
