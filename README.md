@@ -2,7 +2,7 @@
 
 🚀 **CS Enthusiast | Researcher | Software Engineer**  
 
-I am Abolfazl Soltani, a **last-year Bachelor of Science student in Computer Engineering**, with a strong passion for **contributing to open-source applications**, which I'm still a newbie at. 
+I am Abolfazl Soltani, a **graduated Bachelor of Science student in Computer Engineering**, with a strong passion for **contributing to open-source applications**, which I'm still a newbie at. 
 
 ### 🔗 **Find Me Elsewhere**  
 [🌐 Personal Website](https://abolfazlsoltaani.github.io) | [💼 LinkedIn](https://linkedin.com/in/absoltani02) | [🐦 Twitter](https://twitter.com/callmeatreus) 
